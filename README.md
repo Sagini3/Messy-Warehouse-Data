@@ -1,5 +1,4 @@
-# Messy-Warehouse-Data
-Cleaning messy warehouse data Using Python
+# Cleaning messy warehouse data Using Python
 In this simple project, I die deep into cleaning a given data set for a warehouse which needs cleaning. Since cleaning dat is crucial in the data analysis process, I have looked at the data and fixed all the errors I 
 noticed. 
 A summary of the activities done in the process is:
