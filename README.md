@@ -4,7 +4,7 @@ noticed.
 A summary of the activities done in the process is:
 * Dataset into a Pandas DataFrame.
 * Removing leading and trailing spaces from string columns.
-* Standardised text formats (Procust and Category columns)
+* Standardised text formats (Product and Category columns)
 * Correcting the data types in various columns to the right types
 * Replacing missing values with appropiate defaults/estimates
 * Saving the cleaned data in a csv file.
